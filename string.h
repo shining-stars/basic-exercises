@@ -1,3 +1,7 @@
+/**
+ *   String类的深拷贝实现：
+**/
+
 #include <iostream>
 
 class String {
